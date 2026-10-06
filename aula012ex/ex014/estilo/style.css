@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background: rgb(93, 93, 231);
+    font: normal 15pt arial;
+    text-align: center;
+}
+
+header{
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.45);
+}
+
+div > img#imagem{
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
