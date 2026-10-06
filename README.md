@@ -1,2 +1,2 @@
 # JSCRIPT
-Estudo de java
+Estudos de JavaScript 
